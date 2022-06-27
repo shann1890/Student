@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-27T04:52:39.169Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0OIA6nMxa6T414chEq_r" version="20.0.1" type="github" pages="2">
+<mxfile modified="2022-06-27T04:55:15.350Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ddnrLInxo8tZJ6xJ3NCx" version="20.0.1" type="github" pages="2">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R9C1y7ylhDPsS5qmP1jt-40" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="830" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="R9C1y7ylhDPsS5qmP1jt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="R9C1y7ylhDPsS5qmP1jt-23" target="R9C1y7ylhDPsS5qmP1jt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -199,11 +202,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9C1y7ylhDPsS5qmP1jt-17" value="Remote User" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="R9C1y7ylhDPsS5qmP1jt-17" value="Remote User&lt;br&gt;VPN Client" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R9C1y7ylhDPsS5qmP1jt-35" value="Network :&amp;nbsp;&lt;br&gt;192.168.2.0/24" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="289" y="310" width="100" height="30" as="geometry" />
+        <mxCell id="R9C1y7ylhDPsS5qmP1jt-35" value="Network : (VLAN1)&amp;nbsp;&lt;br&gt;192.168.2.0/24" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R9C1y7ylhDPsS5qmP1jt-36" value="Network :&amp;nbsp;&lt;br&gt;192.168.50.0/24" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="27.00000000000003" y="295" width="100" height="30" as="geometry" />
